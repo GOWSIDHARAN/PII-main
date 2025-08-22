@@ -1,0 +1,1 @@
+JavaScript runs primarily in the browser and on Node.js.
